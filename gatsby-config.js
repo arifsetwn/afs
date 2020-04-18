@@ -18,7 +18,7 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Contentful starter',
+    title: 'Arif Setiawan Blog',
   },
   pathPrefix: '/gatsby-contentful-starter',
   plugins: [
